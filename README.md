@@ -1,1 +1,3 @@
 # odin-recipes
+
+This project is a simple recipe website showcasing html skills learned from The Odin Project thus far. The basic structure is an index.html page which should link to a few recipe pages. Good file management within Git will be a skill needed here (project organization, file staging, commits, etc.) This project will include the following: links, images, ordered lists, unordered lists, headings, paragraphs, HTML boilerplate, and more. Enjoy!
